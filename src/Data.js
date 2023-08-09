@@ -9,11 +9,6 @@ const AppProvider = ({ children }) => {
   const [resultTitle, setResultTitle] = useState("");
 
   const fetchBooks = useCallback(() => {
-    // const newBooks = jsonData.products.filter(
-    //   (book) =>
-    //     book.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    //     book.author.toLowerCase().includes(searchTerm.toLowerCase())
-    // );
     const newBooks = jsonData.products.filter((book) => {
       console.log("Book:", book);
       console.log("Book Name:", book.name);

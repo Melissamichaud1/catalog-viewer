@@ -51,8 +51,6 @@ const About = () => {
       title: "Candy Crush Saga-Jason's Story",
       author: "Nesler, NotMax",
     },
-
-    // Add more book objects as needed
   ];
 
   return (
