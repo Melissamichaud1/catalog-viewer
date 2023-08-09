@@ -14,7 +14,7 @@ Hi lovely software development team at Above the Treeline -- Edelweiss! I will b
 
 This repository contains the source code for a book enthusiast website built using React and React Router. The website provides a platform for book lovers to explore, search for books and authors, and discover new literary adventures.
 
-**Key Features:**
+## Key Features:
 - Utilizes React for building a dynamic and responsive user interface.
 - Implements React Router for smooth navigation between different pages.
 - Incorporates a data context (AppProvider) to manage and share global state across components.
