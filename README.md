@@ -53,8 +53,8 @@ This repository contains the source code for a book enthusiast website built usi
 
 # Installation
 
-1. Clone the repository: `git clone https://github.com/Melissamichaud1/catalog_viewer`
-2. Navigate to the project directory: `cd catalog_viewer`
+1. Clone the repository: `git clone https://github.com/Melissamichaud1/catalog-viewer`
+2. Navigate to the project directory: `cd catalog-viewer`
 3. Install dependencies: `npm install`
 
 # Usage
