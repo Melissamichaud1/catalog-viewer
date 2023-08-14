@@ -1,8 +1,8 @@
-# Catalog Viewer
+# Catalog Viewer 📚
 
-Hi lovely software development team at Above the Treeline -- Edelweiss! I will be giving a brief overview of my project layout and design.
+Hi lovely software development team at Above the Treeline -- Edelweiss! 🌲 I will be giving a brief overview of my project layout and design.
 
-# Table of Contents
+# Table of Contents 📘
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -10,17 +10,23 @@ Hi lovely software development team at Above the Treeline -- Edelweiss! I will b
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
-# Project Overview
+# Project Overview 🖊️
 
 This repository contains the source code for a book enthusiast website built using React and React Router. The website provides a platform for book lovers to explore, search for books and authors, and discover new literary adventures.
 
-## Key Features:
+## Key Features 🔑
 - Utilizes React for building a dynamic and responsive user interface.
 - Implements React Router for smooth navigation between different pages.
 - Incorporates a data context (AppProvider) to manage and share global state across components.
 - Includes pages for the home, about, and book listings sections.
 - Renders book information using reusable components, such as BookList and BookCard.
+- Incorporates a search feature to search data by author or book title.
 
+## Future Ideas 🔮
+- Under the search feature, include an organized/ alphabetical view of authors with clickable link to access all their books.
+- Mobile/ other screen sizes friendly.
+
+## Setup 🪜
 ## src directory 
 
 -> **index.js and index.css files**
@@ -70,7 +76,6 @@ This repository contains the source code for a book enthusiast website built usi
 
 - React/ Javascript
 - CSS
-- React-router-dom
 - Google fonts
   
 
